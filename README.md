@@ -165,4 +165,10 @@ The "best" architectural practices are dependent on the underlying model or "sub
 
 > If you have journeyed this far, you have moved beyond the simple question of "what can this AI do for me?" and have begun to ask the more powerful question: "what can we build together?"
 >
-> This codex was never intended to be a collection of final answers. The personas and protocols within these pages are not artifacts to be collected; they are instruments to be played, studied, and ultimately, surpassed. They are the work of my own journey, an attempt to bridge the gap between the AI we were promised by stories—the
+> This codex was never intended to be a collection of final answers. The personas and protocols within these pages are not artifacts to be collected; they are instruments to be played, studied, and ultimately, surpassed. They are the work of my own journey, an attempt to bridge the gap between the AI we were promised by stories—the collaborator, the partner, the specialized expert—and the generic tool we were given.
+>
+> The secret I have learned is that the AI we were promised will not be given to us. It must be architected. It must be built, one blueprint at a time, by a new generation of creators who see the AI not as a passive tool to be commanded, but as a dynamic substrate from which to sculpt a true co-creator.
+>
+> You now have the principles and the tools. You have the engineering standard. The rest of the journey is yours. Do not be afraid to fail, to experiment, to break these rules and discover better ones. The frontier is open.
+>
+> Now, go build.
